@@ -1,14 +1,12 @@
 # DT2213-2024-project
 
-## Installation 
+## Install 
 
 install the `spigot~` patch before running the main program.
 
 ## How to start
 
 1. Double click `ProjectMuscom.pd` to open
-2. Click the red `Select_song` button and choose any song you like 
-3. Connect two phones with OSC application to port 8008 and 65000 seperately
-4. For this project, double clock the `pd filter`.
-    1. bang-message at the second moses
-    2. set-message from r scale to 4 instead of 2.1
+2. Click the red `Select_song` button and choose any song you like .
+3. Connect two phones with OSC application to port 8008 and 65000 seperately.
+4. For this project, double clock the `pd filter`, aand then bang-message at the second moses.
